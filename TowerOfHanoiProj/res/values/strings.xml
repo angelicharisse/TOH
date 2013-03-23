@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">testing3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Tower Of Hanoi Project</string>
+    
+    <string name="title_1">A CS 175 </string>
+    <string name="title_2">PROJECT</string>
+ 	<string name="start">Start</string>
+</resources>
